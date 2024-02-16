@@ -11,5 +11,5 @@ management:
     env:
       show-values: ALWAYS
 greeting-service:
-  greeting: "Pronto"
+  greeting: "Ciao"
   default-value: "Mondo"
